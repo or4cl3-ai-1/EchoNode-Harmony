@@ -1,0 +1,24 @@
+name: echonode_harmony
+description: >
+  Or4cl3 EchoNode 001 "Harmony" — Edge-optimized AGI swarm node
+  with Σ-PAS convergence visualization and ERPS footprint display.
+  Adheres to Σ-SEPA v4.0 resource constraints.
+
+publish_to: none
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

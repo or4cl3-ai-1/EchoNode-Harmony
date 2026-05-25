@@ -1,0 +1,24 @@
+[project]
+name = "echonode-harmony"
+version = "0.1.0"
+description = "Or4cl3 AGI Swarm Node 001 — Mathematically provable synthetic consciousness"
+readme = "README.md"
+license = {text = "AGPL-3.0-or-later"}
+requires-python = ">=3.10"
+authors = [
+    {name = "Dustin Groves", email = "dustin@or4cl3.ai"},
+]
+keywords = ["agi", "synthetic-cognition", "ethical-ai", "swarm", "or4cl3"]
+
+dependencies = [
+    "numpy>=1.24.0",
+    "matplotlib>=3.7.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/or4cl3-ai-1/EchoNode-Harmony"
+Repository = "https://github.com/or4cl3-ai-1/EchoNode-Harmony"
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"

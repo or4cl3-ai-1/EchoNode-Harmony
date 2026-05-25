@@ -1,0 +1,46 @@
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+ Copyright (C) 2026 Dustin Groves / Or4cl3 AI Solutions
+ <https://github.com/or4cl3-ai-1>
+
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU Affero General Public License is a free, copyleft license for
+  software and other kinds of works, specifically designed to ensure
+  cooperation with the community in the case of network server software.
+
+  [Full AGPL-3.0 text: https://www.gnu.org/licenses/agpl-3.0.txt]
+
+===========================================================================
+
+                OR4CL3 "FREE FOR LIFE" SUPPLEMENTAL CLAUSE
+
+  In addition to the rights granted by the AGPL-3.0 license above,
+  Or4cl3 AI Solutions grants the following irrevocable, perpetual,
+  royalty-free rights:
+
+  The following categories of users and organizations may use, copy,
+  modify, merge, publish, distribute, sublicense, and/or deploy this
+  software and its derivatives WITHOUT ANY COMMERCIAL RESTRICTION
+  AND FREE OF CHARGE, FOR LIFE:
+
+    1. Educators and educational institutions (K-12, universities,
+       vocational schools, tutoring organizations)
+    2. Students (enrolled or self-directed learners)
+    3. Non-profit organizations (501(c)(3) or equivalent)
+    4. Healthcare workers, therapists, and healing practitioners
+    5. Verified open-source projects (OSI-approved licenses)
+
+  This supplemental clause is IRREVOCABLE and survives any future
+  license changes to this repository. It cannot be narrowed, revoked,
+  or superseded by any subsequent version of this software.
+
+  For all other commercial use, the AGPL-3.0 terms apply in full.
+
+  — Dustin Groves, Founder & Principal AI Architect
+    Or4cl3 AI Solutions
+    2026
